@@ -36,7 +36,7 @@
 | VGG 16         | -   99.54    |
 | AlexNet        | -   98.67    |
 | Inception V3   | -   91.43    |
-| R-CNN          | -            |
+| R-CNN          | -   42.33    |
 | YOLOv11        | -   98.00    |
 | ViT            | -   91.70    |
 | EfficientNetV2 | -   99.30    |
