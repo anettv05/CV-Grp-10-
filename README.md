@@ -29,7 +29,7 @@
 
 | Model           | Accuracy (%) |
 |----------------|--------------|
-| UNet           | -            |
+| UNet           | -   97%      |
 | ResNet         | -            |
 | SegNet         | -            |
 | GoogleNet      | -            |
@@ -38,14 +38,14 @@
 | Inception V3   | -   91.43    |
 | R-CNN          | -            |
 | YOLOv11        | -            |
-| ViT            | -            |
-| EfficientNetV2 | -            |
+| ViT            | -   91.7%    |
+| EfficientNetV2 | -   99.3%    |
 
 ### Thermal Dataset Accuracies
 
 | Model           | Accuracy (%) |
 |----------------|--------------|
-| UNet           | -            |
+| UNet           | -   54%      |
 | ResNet         | -            |
 | SegNet         | -            |
 | GoogleNet      | -            |
@@ -54,8 +54,8 @@
 | Inception V3   | -   98.69    |
 | R-CNN          | -            |
 | YOLOv11        | -            |
-| ViT            | -            |
-| EfficientNetV2 | -            |
+| ViT            | -   62.2%    |
+| EfficientNetV2 | -   94.4%    |
 
 ## Best Performing Models
 - RGB Dataset: [Model with highest accuracy]
