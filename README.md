@@ -31,13 +31,13 @@
 |----------------|--------------|
 | UNet           | -   97%      |
 | ResNet         | -            |
-| SegNet         | -            |
-| GoogleNet      | -            |
+| SegNet         | -   99.59    |
+| GoogleNet      | -   99.67    |
 | VGG 16         | -   99.54    |
 | AlexNet        | -   98.67    |
 | Inception V3   | -   91.43    |
 | R-CNN          | -            |
-| YOLOv11        | -            |
+| YOLOv11        | -   98.00    |
 | ViT            | -   91.7%    |
 | EfficientNetV2 | -   99.3%    |
 
@@ -47,13 +47,13 @@
 |----------------|--------------|
 | UNet           | -   54%      |
 | ResNet         | -            |
-| SegNet         | -            |
-| GoogleNet      | -            |
+| SegNet         | -   91.29    |
+| GoogleNet      | -   93.18    |
 | VGG 16         | -   98.96    |
 | AlexNet        | -   99.48    |
 | Inception V3   | -   98.69    |
 | R-CNN          | -            |
-| YOLOv11        | -            |
+| YOLOv11        | -   40.00    |
 | ViT            | -   62.2%    |
 | EfficientNetV2 | -   94.4%    |
 
