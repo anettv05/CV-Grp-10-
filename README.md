@@ -58,5 +58,5 @@
 | EfficientNetV2 | -   94.40    |
 
 ## Best Performing Models
-- RGB Dataset: [Model with highest accuracy]
-- Thermal Dataset: [Model with highest accuracy]
+- RGB Dataset: [GoogleNet]
+- Thermal Dataset: [AlexNet]
